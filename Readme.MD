@@ -25,8 +25,8 @@ This project provides APIs for managing document uploads and performing Retrieva
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/riishiiiii/rag-pgvector-openai
+   cd rag-pgvector-openai
    ```
 
 2. Create a `.env` file and configure environment variables (refer to [Environment Variables](#environment-variables)).
